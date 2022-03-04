@@ -1,0 +1,3 @@
+﻿  mejn.cpp
+C:\Users\simon\Desktop\alham\Small Assignments\evenorodd\mejn.cpp(12,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  evenorodd.vcxproj -> C:\Users\simon\Desktop\alham\Small Assignments\Debug\evenorodd.exe

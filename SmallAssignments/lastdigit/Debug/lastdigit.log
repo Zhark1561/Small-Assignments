@@ -1,0 +1,3 @@
+﻿  maein.cpp
+C:\Users\simon\Desktop\alham\Small Assignments\lastdigit\maein.cpp(11,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  lastdigit.vcxproj -> C:\Users\simon\Desktop\alham\Small Assignments\Debug\lastdigit.exe

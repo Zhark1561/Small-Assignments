@@ -1,0 +1,4 @@
+﻿  mainn.cpp
+C:\Users\simon\Desktop\alham\Small Assignments\guessinggame\mainn.cpp(10,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\simon\Desktop\alham\Small Assignments\guessinggame\mainn.cpp(11,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  guessinggame.vcxproj -> C:\Users\simon\Desktop\alham\Small Assignments\Debug\guessinggame.exe
